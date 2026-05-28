@@ -149,6 +149,14 @@ Contributions welcome! Areas where help is appreciated:
 
 Open an issue or PR.
 
+## Author
+
+**Jin Ge** — B2B exporter, industrial networking
+
+- Email: [zengjin6298@gmail.com](mailto:zengjin6298@gmail.com)
+- GitHub: [@stagerai](https://github.com/stagerai)
+- Issues: [Open an issue](https://github.com/stagerai/foreign-trade-dev-framework/issues)
+
 ## License
 
 MIT — see LICENSE file.
